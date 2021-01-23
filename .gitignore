@@ -42,4 +42,15 @@ lib/
 
 # Autoconf Files
 autom4te.cache/
+autoscan.log
+compile
+aclocal.m4
 configure*
+!configure
+config.*
+depcomp
+install-sh
+Makefile.in
+missing
+stamp-h1
+.deps/
